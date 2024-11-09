@@ -1,0 +1,22 @@
+#[0]
+  word is [are] : file count is 1 : file/s :   file is file1.txt : word count is 2
+
+#[7]
+  word is [hii] : file count is 1 : file/s :   file is file1.txt : word count is 2
+
+#[7]
+  word is [hello] : file count is 2 : file/s :   file is file1.txt : word count is 1
+  file is file2.txt : word count is 1
+
+#[7]
+  word is [hi] : file count is 1 : file/s :   file is file2.txt : word count is 1
+
+#[14]
+  word is [ok] : file count is 1 : file/s :   file is file1.txt : word count is 2
+
+#[17]
+  word is [ready] : file count is 1 : file/s :   file is file1.txt : word count is 1
+
+#[24]
+  word is [you] : file count is 1 : file/s :   file is file1.txt : word count is 1
+
